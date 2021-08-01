@@ -29,20 +29,20 @@ private InstitutionsDao institutionsDao;
 	public DataResult<List<Institutions>>  getAll() {
 	
 		return new SuccessDataResult<List<Institutions>>
-		(this.institutionsDao.findAll(),"house sellers listed");
+		(this.institutionsDao.findAll(),"Institutions listed");
 		
 	}
 
 	@Override
 	public Result add(Institutions institutions) {
 		this.institutionsDao.save(institutions);
-		return new SuccessResult("selling house added");
+		return new SuccessResult("Institutions added");
 	}
 	
 	@Override
 	public Result delete(Institutions institutions ) {
 		this.institutionsDao.deleteById(institutions.getInstitutionsId());
-		return new SuccessResult("Seller deleted successfully.");
+		return new SuccessResult("Institutions deleted successfully.");
 	}
 
 	@Override
@@ -54,7 +54,7 @@ private InstitutionsDao institutionsDao;
 		    }
 	    this.institutionsDao.save(institutions);
 	    
-		return new SuccessResult("Seller information updated");
+		return new SuccessResult("Institutions information updated");
 	}
 
 	@Override
