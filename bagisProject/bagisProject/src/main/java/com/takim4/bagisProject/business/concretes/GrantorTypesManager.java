@@ -29,20 +29,20 @@ private GrantorTypesDao grantorTypesDao;
 	public DataResult<List<GrantorTypes>>  getAll() {
 	
 		return new SuccessDataResult<List<GrantorTypes>>
-		(this.grantorTypesDao.findAll(),"house sellers listed");
+		(this.grantorTypesDao.findAll(),"GrantorTypes listed");
 		
 	}
 
 	@Override
 	public Result add(GrantorTypes grantorTypes) {
 		this.grantorTypesDao.save(grantorTypes);
-		return new SuccessResult("selling house added");
+		return new SuccessResult("GrantorTypes added");
 	}
 	
 	@Override
 	public Result delete(GrantorTypes grantorTypes ) {
 		this.grantorTypesDao.deleteById(grantorTypes.getGrantorTypesId());
-		return new SuccessResult("Seller deleted successfully.");
+		return new SuccessResult("GrantorTypes deleted successfully.");
 	}
 
 	@Override
@@ -54,7 +54,7 @@ private GrantorTypesDao grantorTypesDao;
 		    }
 	    this.grantorTypesDao.save(grantorTypes);
 	    
-		return new SuccessResult("Seller information updated");
+		return new SuccessResult("GrantorTypes information updated");
 	}
 
 	@Override
