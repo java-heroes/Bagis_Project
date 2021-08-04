@@ -4,7 +4,9 @@
 
 Kodluyoruz Java Bootcamp Bitirme Projesi 🚀
 ---
+Bağış projemizde hem backend hem frontend yazılımını yaptık. Backend kısmında Java teknolojisinden yararlandık ve Swagger desteği sağladık. Frontenf kısmında ise React, JavaScript kullandık. 
 ## 
+
 
 
 Kullanılan Teknolojiler
@@ -21,9 +23,7 @@ Kullanılan Teknolojiler
 - Hibernate   <img align="left" height="30" width="30" src="https://mpng.subpng.com/20180920/ztj/kisspng-hibernate-object-relational-mapping-java-spring-fr-hibernate-logo-svg-vector-amp-png-transparent-5ba41dd3b8a7a2.2688692915374821957564.jpg" />
 
 - React   <img align="left" height="30"  src="https://miro.medium.com/max/2400/1*aLg1-G2UAlaKpBopRnmCRg.png" />
-
-
-
+- JavaScript   <img align="left" height="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />
 
 Takım Lideri
 --
@@ -34,4 +34,5 @@ Takım Üyeleri
 - Hilal GÜLTEKİN
 - Amine DENİZ
 - Melih İLHAN 
+<img align="left"  width="900px" src="https://cdn.discordapp.com/attachments/857328982138421248/872171315908452382/unknown.png" />
 
