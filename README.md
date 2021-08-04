@@ -28,6 +28,8 @@ Kullanılan Teknolojiler
 Takım Lideri
 --
 Hatice Nur KAYA
+.
+
 
 Takım Üyeleri
 --
