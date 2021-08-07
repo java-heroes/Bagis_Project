@@ -1,4 +1,4 @@
-# Bagis_Project <img align="right"  width="350px" src="https://blog.papara.com/content/images/size/w1500/2021/02/Bagis-Blog.jpg" />
+# Bagis_Project <img align="right"  width="500px" src="https://blog.papara.com/content/images/size/w1500/2021/02/Bagis-Blog.jpg" />
 
 
 
@@ -35,5 +35,4 @@ Takım Üyeleri
 - Hilal GÜLTEKİN
 - Amine DENİZ
 - Melih İLHAN 
-<img align="left"  width="900px" src="https://cdn.discordapp.com/attachments/857328982138421248/872171315908452382/unknown.png" />
 
